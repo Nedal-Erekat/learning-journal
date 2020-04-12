@@ -1,6 +1,6 @@
 ## Welcome to My page
 
-# Nedal Jaber Erekat
+# Nedal Jaber Erekat.
 
 
 # Mindsite
