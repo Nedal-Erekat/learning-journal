@@ -1,7 +1,7 @@
 ## Welcome to My page
 
 # Nedal Jaber Erekat.
-> [Learning](https://nedal-erekat.github.io/learning-journal/Learning)
+* Press to move to [Learning](https://nedal-erekat.github.io/learning-journal/Learning)
 
 ![Brain](https://images.squarespace-cdn.com/content/5c90ada77980b375e134dd50/1554131484822-DISPEONUSD8C6TCI7ADW/growth+mindset?content-type=image%2Fpng)
 > # Mindsite
