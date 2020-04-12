@@ -1,7 +1,7 @@
 ## Welcome to My page
-# Nedal
-## Jaber
-### Erekat
+
+# Nedal Jaber Erekat
+
 
 # Mindsite
 ##### How you can benefit from a growth mindset
