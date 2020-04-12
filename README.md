@@ -1,7 +1,7 @@
 ## Welcome to My page
 
 # Nedal Jaber Erekat.
-[Learning]()
+[Learning](https://nedal-erekat.github.io/learning-journal/Learning)
 
 
 # Mindsite
