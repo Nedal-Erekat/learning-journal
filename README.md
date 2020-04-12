@@ -1,10 +1,10 @@
 ## Welcome to My page
 
 # Nedal Jaber Erekat.
-[Learning](https://nedal-erekat.github.io/learning-journal/Learning)
+> [Learning](https://nedal-erekat.github.io/learning-journal/Learning)
 
 ![Brain](https://images.squarespace-cdn.com/content/5c90ada77980b375e134dd50/1554131484822-DISPEONUSD8C6TCI7ADW/growth+mindset?content-type=image%2Fpng)
-# Mindsite
+> # Mindsite
 ##### How you can benefit from a growth mindset
 
 The growth mindset can open pathways to more creativity and *possibility*, and enable the setting of higher goals and more achievement.
