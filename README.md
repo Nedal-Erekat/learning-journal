@@ -6,7 +6,7 @@ topic | Link
 ------|------
 Learning|[Learning page](https://nedal-erekat.github.io/learning-journal/Learning)
 Mind|[Mind page](https://nedal-erekat.github.io/learning-journal/Mind)
-summarizes[summarizes page](https://nedal-erekat.github.io/learning-journal/summarizes)
+summarizes|[summarizes page](https://nedal-erekat.github.io/learning-journal/summarizes)
 
 # bief about me:
 
