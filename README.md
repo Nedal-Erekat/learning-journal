@@ -9,7 +9,7 @@ Mind|[Mind page](https://nedal-erekat.github.io/learning-journal/Mind)
 summarizes|[summarizes page](https://nedal-erekat.github.io/learning-journal/summarizes)
 Git introduction|[Git intro page](https://nedal-erekat.github.io/learning-journal/command-line)
 pages-HTML|[Pagehtml page](https://nedal-erekat.github.io/learning-journal/pages.html)
-
+CSS|[CSS page](https://nedal-erekat.github.io/learning-journal/CSS)
 
 
 # brief about me:
