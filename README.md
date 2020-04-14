@@ -10,6 +10,7 @@ summarizes|[summarizes page](https://nedal-erekat.github.io/learning-journal/sum
 Git introduction|[Git intro page](https://nedal-erekat.github.io/learning-journal/command-line)
 pages-HTML|[Pagehtml page](https://nedal-erekat.github.io/learning-journal/pages.html)
 CSS|[CSS page](https://nedal-erekat.github.io/learning-journal/CSS)
+JS|[JS page](https://nedal-erekat.github.io/learning-journal/JS)
 
 
 # brief about me:
