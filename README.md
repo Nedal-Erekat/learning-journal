@@ -11,7 +11,7 @@ Git introduction|[Git intro page](https://nedal-erekat.github.io/learning-journa
 pages-HTML|[Pagehtml page](https://nedal-erekat.github.io/learning-journal/pages.html)
 CSS|[CSS page](https://nedal-erekat.github.io/learning-journal/CSS)
 JS|[JS page](https://nedal-erekat.github.io/learning-journal/JS)
-
+PCwork|[PC page](https://nedal-erekat.github.io/learning-journal/PCwork)
 
 # brief about me:
 
