@@ -1,4 +1,4 @@
-#CSS
+# CSS
 #### This langusg used for designing the the html page, by groub of orders or codes. it can be apply by _three differint ways_, which are:
 1. link the external sheet.
 2. Internal spatical syntax tag.
@@ -23,7 +23,7 @@
 > <Link rel="stylesheet" href="the folder name/the name of the sheet"> if it was external.
 * make sure the CSS file is inserted in different folder, to be more orgnized.
 
-### *** the general fourm for CSS ***
+### *the general fourm for CSS*
 > selector {properties:value;}
 
 #### some example:
