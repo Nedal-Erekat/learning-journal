@@ -1,4 +1,6 @@
 # CSS
+
+![CSS](https://www.tutorialrepublic.com/lib/images/css-illustration.png)
 #### This langusg used for designing the the html page, by groub of orders or codes. it can be apply by _three differint ways_, which are:
 1. link the external sheet.
 2. Internal spatical syntax tag.

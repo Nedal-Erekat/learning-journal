@@ -1,5 +1,6 @@
 # Java Secript 
 
+![JS](https://images.ctfassets.net/3prze68gbwl1/asset-17suaysk1qa1jtx/b1e3eda412fbc2c2be1f6d6229605ed0/node-js-websockets-programming.png?fm=webp)
 ### we use the JS to make the website more daynamic and like CSS it can use external and intenal code.
 
 > we use this syntax to copy at the *Ubentu command line*
