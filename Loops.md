@@ -12,11 +12,10 @@
 ![Dowhile](https://cdn.journaldev.com/wp-content/uploads/2017/10/java-do-while-loop-1.png)
 #### similar to while loop but the differance it will always run the statment in side the curly pbraces at least once even the condation false.
 
-## the operation normally we use with loop as follow:
-Name|operation
-----|---------
-Not A|!A
-And |&&
-OR|"||"
-greater than|">"
-Less than|"<"
+#### the operation normally we use with loop as follow:
+
+>Not A|!A
+>And |&&
+>OR|"||"
+>greater than|">"
+>Less than|"<"
