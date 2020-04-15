@@ -12,6 +12,7 @@ pages-HTML|[Pagehtml page](https://nedal-erekat.github.io/learning-journal/pages
 CSS|[CSS page](https://nedal-erekat.github.io/learning-journal/CSS)
 JS|[JS page](https://nedal-erekat.github.io/learning-journal/JS)
 PCwork|[PC page](https://nedal-erekat.github.io/learning-journal/PCwork)
+Programing with javasecribt|[ProgJC page](https://nedal-erekat.github.io/learning-journal/ProgWthJS)
 
 # brief about me:
 
